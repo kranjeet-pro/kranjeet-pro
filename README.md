@@ -37,4 +37,4 @@
 ## 📫 Contact
 
 📧 Email: kranjeet.pro@gmail.com  
-🔗 LinkedIn: (add your LinkedIn URL here)
+🔗 LinkedIn: (https://www.linkedin.com/in/ranjeet-kumar-0856a4344/)
