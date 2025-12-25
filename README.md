@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hi, I’m Ranjeet Kumar
 
-<!--
-**kranjeet-pro/kranjeet-pro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Linux | Cloud | DevOps Engineer
 
-Here are some ideas to get you started:
+🔹 Linux Administrator with 7+ years of production experience  
+🔹 AWS, NIC Cloud & On-Prem Infrastructure  
+🔹 Automation with Ansible & Shell Scripting  
+🔹 CI/CD, Docker & Cloud Operations  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills & Tools
+
+- **Linux:** RHEL, Rocky, CentOS, Ubuntu  
+- **Cloud:** AWS (EC2, VPC, IAM, S3, EBS, CloudWatch)  
+- **DevOps:** Jenkins (CI/CD), Docker, Ansible  
+- **Monitoring:** Prometheus, Grafana, Nagios  
+- **Databases:** Oracle, MariaDB, PostgreSQL  
+- **Security:** FirewallD, Fail2Ban, Hardening  
+
+---
+
+## 🚀 What I Do
+
+- Manage and automate Linux & Cloud infrastructure  
+- Build CI/CD-ready environments  
+- Improve uptime, monitoring & security  
+- Support high-availability production systems  
+
+---
+
+## 📌 Featured Projects
+⬇️ Check my pinned repositories below ⬇️
+
+---
+
+## 📫 Contact
+
+📧 Email: kranjeet.pro@gmail.com  
+🔗 LinkedIn: (add your LinkedIn URL here)
