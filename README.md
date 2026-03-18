@@ -1,16 +1,20 @@
-Hi, I'm Ranjeet 👋
+Hi 👋 I'm Ranjeet
 
-DevOps Engineer with 10+ years in Linux and 3+ years in DevOps.
+🚀 DevOps Engineer | Kubernetes | AWS | Docker | Jenkins | Linux
+
+💼 Experience:
+- 10+ years in Linux & Infrastructure
+- 3+ years in DevOps
 
 🔧 Skills:
 - Docker, Kubernetes, Jenkins
-- AWS (EC2, S3, VPC, IAM)
-- CI/CD, Git, Linux
+- AWS (EC2, S3, IAM, VPC)
+- CI/CD, Git, Linux, Shell Scripting
 
-🚀 Projects:
-- Dockerized Applications
-- Kubernetes Deployments
-- CI/CD Pipelines
+📦 Projects:
+- Dockerized Application Deployment
+- Kubernetes Cluster Deployment
+- CI/CD Pipeline using Jenkins
 
-📫 Connect:
-LinkedIn: https://www.linkedin.com/in/ranjeet-kumar-0856a4344/
+📫 Connect with me:
+LinkedIn: https://linkedin.com/in/ranjeet-kumar-0856a4344
