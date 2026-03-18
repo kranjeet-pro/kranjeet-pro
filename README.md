@@ -1,4 +1,4 @@
-Hi 👋 I'm Ranjeet Singh
+Hi 👋 I'm Ranjeet Kumar
 
 🚀 Senior DevOps Engineer | Kubernetes | AWS | Docker | Jenkins | Linux
 
@@ -20,6 +20,11 @@ Hi 👋 I'm Ranjeet Singh
 - Automation
 - Scalable deployments
 - High availability systems
+
+📈 Achievements:
+- Automated CI/CD pipeline reducing deployment time by 60%
+- Deployed containerized applications using Kubernetes
+- Improved system reliability and scalability using DevOps practices
 
 📫 Connect:
 LinkedIn: https://linkedin.com/in/ranjeet-kumar-0856a4344
