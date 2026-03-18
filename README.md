@@ -13,4 +13,4 @@ DevOps Engineer with 10+ years in Linux and 3+ years in DevOps.
 - CI/CD Pipelines
 
 📫 Connect:
-LinkedIn: your-link
+LinkedIn: https://www.linkedin.com/in/ranjeet-kumar-0856a4344/
