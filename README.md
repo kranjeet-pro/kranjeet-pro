@@ -1,30 +1,35 @@
-Hi 👋 I'm Ranjeet Kumar
+# Hi 👋, I'm Ranjeet Kumar
 
-🚀 Senior DevOps Engineer | Kubernetes | AWS | Docker | Jenkins | Linux
+🚀 DevOps Engineer | AWS | Kubernetes | Docker | CI/CD  
 
-💼 Experience:
-- 10+ years in Linux & Infrastructure
-- 3+ years in DevOps (CI/CD, Containers, Cloud)
+---
 
-🔧 Skills:
-- Docker, Kubernetes, Jenkins
-- AWS (EC2, S3, IAM, VPC, CloudWatch)
-- CI/CD, Git, Linux, Shell Scripting
+## 🔧 Tech Stack
+- AWS  
+- Kubernetes  
+- Docker  
+- Jenkins (CI/CD)  
+- Ansible  
+- Linux  
+- Prometheus & Grafana  
 
-📦 Key Projects:
-🔹 Dockerized Nginx Application with multi-container setup  
-🔹 Kubernetes Deployment (Deployment, Service, Ingress)  
-🔹 CI/CD Pipeline using Jenkins (Build → Deploy → Monitor)
+---
 
-🎯 Focus:
-- Automation
-- Scalable deployments
-- High availability systems
+## 📌 Projects
 
-📈 Achievements:
-- Automated CI/CD pipeline reducing deployment time by 60%
-- Deployed containerized applications using Kubernetes
-- Improved system reliability and scalability using DevOps practices
+### 🔹 CI/CD Pipeline
+- Jenkins + Docker based deployment automation  
+- Reduced manual deployment effort  
 
-📫 Connect:
-LinkedIn: https://linkedin.com/in/ranjeet-kumar-0856a4344
+### 🔹 Kubernetes Deployment
+- Managed pods, services, scaling  
+- Rolling updates in production  
+
+### 🔹 Monitoring Setup
+- Prometheus + Grafana dashboards  
+- Alerting for CPU, Memory, Disk  
+
+---
+
+## 📫 Connect with me
+- LinkedIn: https://www.linkedin.com/in/ranjeet-kumar-0856a4344/
